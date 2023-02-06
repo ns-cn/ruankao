@@ -41,13 +41,13 @@ enableEmoji = true
     # 菜单配置
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
-        identifier = "posts"
+        identifier = "home"
         # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
         pre = ""
         # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
         post = ""
         name = "主站"
-        url = "/"
+        url = "http://tangyujun.com/"
         title = ""
         weight = 1
       [[languages.zh-cn.menu.main]]
@@ -72,7 +72,7 @@ enableEmoji = true
         post = ""
         name = "信管"
         url = "/cnitpm/"
-        title = ""
+        title = "信息系统项目管理师"
         weight = 4
       [[languages.zh-cn.menu.main]]
         identifier = "pmp"
@@ -80,7 +80,7 @@ enableEmoji = true
         post = ""
         name = "PMP"
         url = "/pmp/"
-        title = "导航窗格"
+        title = "PMP"
         weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "about"
