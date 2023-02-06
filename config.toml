@@ -46,7 +46,7 @@ enableEmoji = true
         pre = ""
         # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
         post = ""
-        name = "主站"
+        name = "个人站"
         url = "http://tangyujun.com/"
         title = ""
         weight = 1
