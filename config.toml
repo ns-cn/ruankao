@@ -84,7 +84,7 @@ enableEmoji = true
         weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "home"
-        pre = ""
+        pre = "<i class='far fa-copyright fa-fw'></i>"
         post = ""
         name = "个人站"
         url = "http://tangyujun.com"
