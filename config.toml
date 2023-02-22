@@ -4,7 +4,7 @@ baseURL = "https://ns-cn.github.io/ruankao"
 defaultContentLanguage = "zh-cn"
 # theme
 # 主题
-theme = "LoveIt"
+theme = "FixIt"
 # themes directory
 # 主题目录
 themesDir = "themes"
@@ -81,6 +81,7 @@ enableEmoji = true
         name = "PMP"
         url = "/pmp/"
         title = "PMP"
+        parent = "信管"
         weight = 5
       [[languages.zh-cn.menu.main]]
         identifier = "civil"
@@ -89,6 +90,7 @@ enableEmoji = true
         name = "公考"
         url = "/civil/"
         title = "公务员考试"
+        parent = "信管"
         weight = 6
       [[languages.zh-cn.menu.main]]
         identifier = "home"
@@ -105,6 +107,7 @@ enableEmoji = true
         name = "娱乐站"
         url = "http://tangyujun.com/entertainment/"
         title = "提供个人娱乐内容"
+        parent = "home"
         weight = 8
       [[languages.zh-cn.menu.main]]
         identifier = "github"
@@ -164,7 +167,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/avatar.webp"
+          avatarURL = "/ruankao/images/avatar.webp"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
@@ -400,6 +403,12 @@ enableEmoji = true
       maxShownLines = 10
     # KaTeX mathematical formulas config (KaTeX https://katex.org/)
     # KaTeX 数学公式配置 (KaTeX https://katex.org/)
+    [params.page.edit]
+      enable = false
+      # FixIt 0.2.15 | 更改 编辑的基础链接
+      # url = "/edit/branch-name/subdirectory-name" # 相对于 `params.gitRepo`
+      # url = "https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name" # 完整链接
+      url = "/tree/main/content"
     [params.page.math]
       enable = false
       # default block delimiter is $$ ... $$ and \\[ ... \\]
