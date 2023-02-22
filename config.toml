@@ -103,7 +103,7 @@ enableEmoji = true
         pre = "<i class='far fa-copyright fa-fw'></i>"
         post = ""
         name = "娱乐站"
-        url = "/entertainment/"
+        url = "http://tangyujun.com/entertainment/"
         title = "提供个人娱乐内容"
         weight = 8
       [[languages.zh-cn.menu.main]]
