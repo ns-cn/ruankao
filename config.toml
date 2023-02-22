@@ -101,11 +101,11 @@ enableEmoji = true
         title = "唐毓俊个人站"
         weight = 7
       [[languages.zh-cn.menu.main]]
-        identifier = "entertainment"
+        identifier = "forfun"
         pre = "<i class='far fa-copyright fa-fw'></i>"
         post = ""
         name = "娱乐站"
-        url = "http://tangyujun.com/entertainment/"
+        url = "http://tangyujun.com/forfun/"
         title = "提供个人娱乐内容"
         parent = "home"
         weight = 8
