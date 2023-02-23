@@ -82,7 +82,7 @@ lightgallery: true
 
 |类别|书籍|
 |:---:|:---:|
-|大纲|[《信息系统项目管理师考试大纲》（第2版）](https://item.jd.com/12176415.html)|
+|大纲|[《信息系统项目管理师考试大纲》（第2版）](https://item.jd.com/12176415.html)、[电子版](https://get.accessed.to.the.data.easily.and.quickly.xjfa.tk/dtoken/2cddfd3de54ba5f2010d7ad053874666)|
 |教材|[信息系统项目管理师教程（第3版）](https://item.jd.com/12237472.html)|
 
 ## 五、成绩
